@@ -26,7 +26,7 @@ This is a simple React application for looking up UK postcodes and displaying th
 
 3. Use the "Search" tab to submit a UK postcode and view its details.
 
-4. Use the "History" tab to view a list of previously submitted postcodes. You can click on a postcode to view its details or click the red cross button to remove it from the history.
+4. Use the "History" tab to view a list of previously submitted postcodes. You can click on a postcode to view its details or click the red remove button to remove it from the history.
 
 ## Dependencies
 
