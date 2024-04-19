@@ -6,21 +6,21 @@ This is a simple React application for looking up UK postcodes and displaying th
 
 1. Clone the repository to your local machine:
 
-### `git clone https://github.com/StasStrezh/tech-assessment.git`
+###     `git clone https://github.com/StasStrezh/tech-assessment.git`
 
 2. Navigate to the project directory:
 
-### `cd tech-assessment`
+###     `cd tech-assessment`
 
 3. Install dependencies:
 
-### `npm install`
+###     `npm install`
 
 ## Usage
 
 1. Start the development server:
 
-### `npm start`
+###     `npm start`
 
 2. Open your browser and visit http://localhost:3000 to view the application.
 
